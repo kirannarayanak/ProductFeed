@@ -1,18 +1,18 @@
-<rss version="2.0">
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
     <title>Ayshei</title>
     <link>https://ayshei.com/</link>
     <description>Your one-stop shop for the latest fashion items</description>
     <item>
-      <ID>b1436332-2311-44ca-bfa9-f3618df7a324</ID>
-      <Title>mercedes used for sale</Title>
-      <Description>&lt;p class=&#34;lex-paragraph&#34; dir=&#34;ltr&#34;&gt;&lt;b&gt;&lt;strong class=&#34;lex-text-bold&#34; style=&#34;white-space: pre-wrap;&#34;&gt;Product images gallery test.&lt;/strong&gt;&lt;/b&gt;&lt;/p&gt;</Description>
-      <Link>https://portal.dev.ayshei.com/product/b1436332-2311-44ca-bfa9-f3618df7a324</Link>
-      <ImageLink>https://gateway.dev.ayshei.com/assets?filename=drafts/4213f73c-bbc9-49ff-85cc-06dd662ca5d6/web/</ImageLink>
-      <Brand>Abarth</Brand>
-      <Price>2999.00 AED</Price>
-      <Availability>in stock</Availability>
-      <GTIN>13954809023</GTIN>
+      <g:id>b1436332-2311-44ca-bfa9-f3618df7a324</g:id>
+      <g:title>mercedes used for sale</g:title>
+      <g:description>Product images gallery test.</g:description>
+      <g:link>https://portal.dev.ayshei.com/product/b1436332-2311-44ca-bfa9-f3618df7a324</g:link>
+      <g:image_link>https://gateway.dev.ayshei.com/assets?filename=drafts/4213f73c-bbc9-49ff-85cc-06dd662ca5d6/web/</g:image_link>
+      <g:brand>Abarth</g:brand>
+      <g:price>2999.00 AED</g:price>
+      <g:availability>in stock</g:availability>
+      <g:gtin>13954809023</g:gtin>
     </item>
   </channel>
 </rss>
